@@ -20,23 +20,23 @@
 
 [4.8절 코드](https://colab.research.google.com/drive/16gM2y9eiNGxYiqZrcNFUySdz4gYiJLvC?usp=sharing)
 
-[4.9절 코드]
+[4.9절 코드](https://colab.research.google.com/drive/1vMmp3h--nKCGohmizUuibWDjKI_hnp4B?usp=sharing)
 
-[4.11절 코드]
+[4.11절 코드](https://colab.research.google.com/drive/1nEgzKch_8xEfQl9O8-mpXUEtzH2tz-l8?usp=sharing)
 
-[4.12절/13절]
+[4.12절/13절](https://colab.research.google.com/drive/1ZCLG4VM9SC-xdZ2wLg7pIi3tzMa10C2D?usp=sharing)
 
 ### 5장 분류와 군집화로 이해하는 비지도 학습
 
-[5.2절 코드]
+[5.2절 코드](https://colab.research.google.com/drive/1akrGJQcI3b9AYDzAf0MhbHzdQcVyXCze?usp=sharing)
 
-[5.3절 코드]
+[5.3절 코드](https://colab.research.google.com/drive/17bbJpKIARywWXo7fdwEHWSUpfOuROnZy?usp=sharing)
 
-[5.4절 코드]
+[5.4절 코드](https://colab.research.google.com/drive/14mlqDrZWbE4Ss60GxdTy_liTDn-cTzW_?usp=sharing)
 
-[5.5절 코드]
+[5.5절 코드](https://colab.research.google.com/drive/16M96bp2i7UENTxfSpfPsct44rqGLPEQb?usp=sharing)
 
-[5.6절 코드]
+[5.6절 코드](https://colab.research.google.com/drive/1uQgPofLDkULm181HOJLMXwndhbDLgMV3?usp=sharing)
 
 [5.8절 코드]
 
