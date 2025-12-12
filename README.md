@@ -8,9 +8,9 @@
 
 ### 4장 선형회귀로 이해하는 머신러닝
 
-[4.3절 코드]
+[4.3절 코드](https://colab.research.google.com/drive/1NlmNfXpApx6uSxAV_SBqx5PqWIucEPO9?usp=sharing)
 
-[4.4절 코드]
+[4.4절 코드](https://colab.research.google.com/drive/1Em5A3g4eLHWYFxKckcC5jIKvh22q3bet?usp=sharing)
 
 [4.5절 코드]
 
