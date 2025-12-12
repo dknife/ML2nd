@@ -14,11 +14,11 @@
 
 [4.4절 코드](https://colab.research.google.com/drive/1Em5A3g4eLHWYFxKckcC5jIKvh22q3bet?usp=sharing)
 
-[4.5절 코드]
+[4.5절 코드](https://colab.research.google.com/drive/1PaWF10lfQZsZDbqV1kCA1al4EK10eMFh?usp=sharing)
 
-[4.7절 코드]
+[4.7절 코드](https://colab.research.google.com/drive/12iFIjvaICYmp9t6nxEEqiPToOkdWRsLW?usp=sharing)
 
-[4.8절 코드]
+[4.8절 코드](https://colab.research.google.com/drive/16gM2y9eiNGxYiqZrcNFUySdz4gYiJLvC?usp=sharing)
 
 [4.9절 코드]
 
