@@ -155,13 +155,13 @@
 
 ### 12장 어텐션만으로 충분한 트랜스포머
 
-[12장 4절 코드]
+[12장 4절 코드 - 임베딩과 위치 인코딩](https://colab.research.google.com/drive/1Aq-PJdiY_mKqFg7eepRbLU9SVI1rqyLM?usp=sharing)
 
 #### 12장 랩 코드
 
-[12장 LAB 12.1 코드]
+[12장 LAB 12.1 코드 - 트랜스포머를 이용한 챗봇](https://colab.research.google.com/drive/19pW3t5rpSSffKgxf3ksABg2QgslUjiZk?usp=sharing)
 
 
 ### 12장 미니프로젝트 C1
 
-[MP C1: 트랜스포머 모델을 이용한 감정분석]
+[MP C1: 트랜스포머 모델을 이용한 감정분석](https://colab.research.google.com/drive/1F9OWfBUkcsm6HkNCSNPuQvrlpUR1j6kA?usp=sharing)
