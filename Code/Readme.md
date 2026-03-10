@@ -82,17 +82,17 @@
 
 #### 7장 랩 코드
 
-[7장 LAB 7.1 코드]
+[7장 LAB 7.1 코드 - AND / OR 연산을 수행하는 퍼셉트론](https://colab.research.google.com/drive/1Doo9ZX3_rGux4h9unsXXtD_awpsCbWkD?usp=sharing)
 
-[7장 LAB 7.2 코드]
+[7장 LAB 7.2 코드 - 논리합을 수행하는 퍼셉트론 만들기](https://colab.research.google.com/drive/13zEsDzwDk9rG-p9tObrxxVD_6jugJN16?usp=sharing)
 
-[7장 LAB 7.3 코드]
+[7장 LAB 7.3 코드 - 다양한 논리 연산이 가능하게 퍼셉트론 훈련하기](https://colab.research.google.com/drive/1QHiqsnx_kLo1STB2yVUNy2NkHEwgqRtu?usp=sharing)
 
-[7장 LAB 7.4 코드]
+[7장 LAB 7.4 코드 - XOR 연산이 가능한 다층 퍼셉트론 만들기](https://colab.research.google.com/drive/1hRlq9zxGfCgaKDrMalUVCGIPTdWiPWFu?usp=sharing)
 
-[7장 LAB 7.5 코드]
+[7장 LAB 7.5 코드 - 다층 퍼셉트론으로 비선형 회귀 구현하기](https://colab.research.google.com/drive/1Yf2QvYOsZAJIvPrWvZaXlMI6WWvpi9sU?usp=sharing)
 
-[7장 LAB 7.6 코드]
+[7장 LAB 7.6 코드 - 다층 퍼셉트론으로 비선형 회귀 구현하기](https://colab.research.google.com/drive/1jybQOtNNif7WdYvbSHfY6Vk8XxNK6Q0I?usp=sharing)
 
 ### 8장 고급 인경 신경망 구현
 
