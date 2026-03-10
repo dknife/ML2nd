@@ -38,9 +38,10 @@
 
 [5.6절 코드](https://colab.research.google.com/drive/1uQgPofLDkULm181HOJLMXwndhbDLgMV3?usp=sharing)
 
-[5.8절 코드]
+[5.8절 코드](https://colab.research.google.com/drive/1e3C6IPlsb6sfrJS__oMdaHcsepEaH-Sk?usp=sharing)
 
-[5.9절 코드]
+[5.9절 코드](https://colab.research.google.com/drive/1OL3OhcdSh_94K0tRW-pbqh4l0UVSoADm?usp=sharing)
+
 
 #### 5장 랩 코드
 [5장 LAB 5.1 코드]
