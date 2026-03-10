@@ -6,7 +6,7 @@
 
 ### 제3장 구현을 위한 도구
 
-[3장 코드 전체 - 넘파이와 판다스 연](https://colab.research.google.com/drive/1l7TKT-nae7HO1kSaTNdk9VAQRyz26mTb?usp=sharing)
+[3장 코드 전체 - 넘파이와 판다스 연습](https://colab.research.google.com/drive/1l7TKT-nae7HO1kSaTNdk9VAQRyz26mTb?usp=sharing)
 
 ### 4장 선형회귀로 이해하는 머신러닝
 
@@ -28,23 +28,23 @@
 
 ### 5장 분류와 군집화로 이해하는 비지도 학습
 
-[5.2절 코드](https://colab.research.google.com/drive/1akrGJQcI3b9AYDzAf0MhbHzdQcVyXCze?usp=sharing)
+[5.2절 코드 - k-NN 알고리즘을 위한 데이터 준비](https://colab.research.google.com/drive/1akrGJQcI3b9AYDzAf0MhbHzdQcVyXCze?usp=sharing)
 
-[5.3절 코드](https://colab.research.google.com/drive/17bbJpKIARywWXo7fdwEHWSUpfOuROnZy?usp=sharing)
+[5.3절 코드 - 사이킷런을 이용한 k-NN 알고리즘의 적용](https://colab.research.google.com/drive/17bbJpKIARywWXo7fdwEHWSUpfOuROnZy?usp=sharing)
 
-[5.4절 코드](https://colab.research.google.com/drive/14mlqDrZWbE4Ss60GxdTy_liTDn-cTzW_?usp=sharing)
+[5.4절 코드 - 붓꽃 데이터를 이용한 k-NN 활용 연습](https://colab.research.google.com/drive/14mlqDrZWbE4Ss60GxdTy_liTDn-cTzW_?usp=sharing)
 
-[5.5절 코드](https://colab.research.google.com/drive/16M96bp2i7UENTxfSpfPsct44rqGLPEQb?usp=sharing)
+[5.5절 코드 - 학습된 k-NN 분류기의 성능 평가](https://colab.research.google.com/drive/16M96bp2i7UENTxfSpfPsct44rqGLPEQb?usp=sharing)
 
-[5.6절 코드](https://colab.research.google.com/drive/1uQgPofLDkULm181HOJLMXwndhbDLgMV3?usp=sharing)
+[5.6절 코드 - 사이킷 런의 성능지표 함수들](https://colab.research.google.com/drive/1uQgPofLDkULm181HOJLMXwndhbDLgMV3?usp=sharing)
 
-[5.8절 코드](https://colab.research.google.com/drive/1e3C6IPlsb6sfrJS__oMdaHcsepEaH-Sk?usp=sharing)
+[5.8절 코드 - 군집화의 개념과 비지도 학습](https://colab.research.google.com/drive/1e3C6IPlsb6sfrJS__oMdaHcsepEaH-Sk?usp=sharing)
 
-[5.9절 코드](https://colab.research.google.com/drive/1OL3OhcdSh_94K0tRW-pbqh4l0UVSoADm?usp=sharing)
+[5.9절 코드 - 군집화의 개념과 비지도 학습](https://colab.research.google.com/drive/1OL3OhcdSh_94K0tRW-pbqh4l0UVSoADm?usp=sharing)
 
 
 #### 5장 랩 코드
-[5장 LAB 5.1 코드](https://colab.research.google.com/drive/1Wa3eYFNNqhXUijUHyu0TWx5U40Ye-esI?usp=sharing)
+[5장 LAB 5.1 코드 - 붓꽃 데이터 군집화의 정확성을 분석](https://colab.research.google.com/drive/1Wa3eYFNNqhXUijUHyu0TWx5U40Ye-esI?usp=sharing)
 
 
 ### 5장 미니프로젝트 A1
