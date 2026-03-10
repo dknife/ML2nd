@@ -6,25 +6,25 @@
 
 ### 제3장 구현을 위한 도구
 
-[3장 코드 전체](https://colab.research.google.com/drive/1l7TKT-nae7HO1kSaTNdk9VAQRyz26mTb?usp=sharing)
+[3장 코드 전체 - 넘파이와 판다스 연](https://colab.research.google.com/drive/1l7TKT-nae7HO1kSaTNdk9VAQRyz26mTb?usp=sharing)
 
 ### 4장 선형회귀로 이해하는 머신러닝
 
-[4.3절 코드](https://colab.research.google.com/drive/1NlmNfXpApx6uSxAV_SBqx5PqWIucEPO9?usp=sharing)
+[4.3절 코드 - 데이터로 가설 만들](https://colab.research.google.com/drive/1NlmNfXpApx6uSxAV_SBqx5PqWIucEPO9?usp=sharing)
 
-[4.4절 코드](https://colab.research.google.com/drive/1Em5A3g4eLHWYFxKckcC5jIKvh22q3bet?usp=sharing)
+[4.4절 코드 - 좋은 가설과 모델의 오차](https://colab.research.google.com/drive/1Em5A3g4eLHWYFxKckcC5jIKvh22q3bet?usp=sharing)
 
-[4.5절 코드](https://colab.research.google.com/drive/1PaWF10lfQZsZDbqV1kCA1al4EK10eMFh?usp=sharing)
+[4.5절 코드 - 데이터의 관계를 설명하는 선형 회귀 함수의 시각적 이해](https://colab.research.google.com/drive/1PaWF10lfQZsZDbqV1kCA1al4EK10eMFh?usp=sharing)
 
-[4.7절 코드](https://colab.research.google.com/drive/12iFIjvaICYmp9t6nxEEqiPToOkdWRsLW?usp=sharing)
+[4.7절 코드 - 오차로 가설을 평가하고 좋은 가설 찾기](https://colab.research.google.com/drive/12iFIjvaICYmp9t6nxEEqiPToOkdWRsLW?usp=sharing)
 
-[4.8절 코드](https://colab.research.google.com/drive/16gM2y9eiNGxYiqZrcNFUySdz4gYiJLvC?usp=sharing)
+[4.8절 코드 - 기계 학습의 개념으로 해석하는 선형 회귀](https://colab.research.google.com/drive/16gM2y9eiNGxYiqZrcNFUySdz4gYiJLvC?usp=sharing)
 
-[4.9절 코드](https://colab.research.google.com/drive/1vMmp3h--nKCGohmizUuibWDjKI_hnp4B?usp=sharing)
+[4.9절 코드 - Scikit-Learn을 이용한 선형 회귀](https://colab.research.google.com/drive/1vMmp3h--nKCGohmizUuibWDjKI_hnp4B?usp=sharing)
 
-[4.11절 코드](https://colab.research.google.com/drive/1nEgzKch_8xEfQl9O8-mpXUEtzH2tz-l8?usp=sharing)
+[4.11절 코드 - 회귀분석의 닫힌 해 - 정규 방정식](https://colab.research.google.com/drive/1nEgzKch_8xEfQl9O8-mpXUEtzH2tz-l8?usp=sharing)
 
-[4.12절/13절](https://colab.research.google.com/drive/1ZCLG4VM9SC-xdZ2wLg7pIi3tzMa10C2D?usp=sharing)
+[4.12절/13절 - 다변량 선형 회귀](https://colab.research.google.com/drive/1ZCLG4VM9SC-xdZ2wLg7pIi3tzMa10C2D?usp=sharing)
 
 ### 5장 분류와 군집화로 이해하는 비지도 학습
 
