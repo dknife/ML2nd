@@ -92,8 +92,6 @@
 
 [7장 LAB 7.5 코드 - 다층 퍼셉트론으로 비선형 회귀 구현하기](https://colab.research.google.com/drive/1Yf2QvYOsZAJIvPrWvZaXlMI6WWvpi9sU?usp=sharing)
 
-[7장 LAB 7.6 코드 - 다층 퍼셉트론으로 비선형 회귀 구현하기](https://colab.research.google.com/drive/1jybQOtNNif7WdYvbSHfY6Vk8XxNK6Q0I?usp=sharing)
-
 ### 8장 고급 인경 신경망 구현
 
 [8장 5절, 6절, 7절 코드]
