@@ -78,7 +78,7 @@
 
 ### 7장 인경신경망의 기초
 
-[7장 9절 코드]
+[7장 9절 코드 - 인공 신경망을 설계하고 훈련할 수 있는 도구: 텐서플로우](https://colab.research.google.com/drive/1sJDSqtn0VbgS5QyeZg4_r9smvoPS_TTS?usp=sharing)
 
 #### 7장 랩 코드
 
