@@ -108,50 +108,50 @@
 
 ### 9장 합성곱 신경망
 
-[9장 9절 코드]
+[9장 9절 코드 - 전이학습 - 이미 훈련된 모델을 고쳐 쓰기](https://colab.research.google.com/drive/1nW84ftQd6PPAj-XACR49Y-tctzJmRpQe?usp=sharing)
 
 #### 9장 랩 코드
 
-[9장 LAB 9.1 코드]
+[9장 LAB 9.1 코드 - 합성곱을 구현해 보자](https://colab.research.google.com/drive/1huMsiX5y5bNVJtQ48Tg91DrxgLyy82RU?usp=sharing)
 
-[9장 LAB 9.2 코드]
+[9장 LAB 9.2 코드 - 합성곱 신경망으로 패션 MNIST 분류를 개선하기](https://colab.research.google.com/drive/1HsvkyT0kaoyxkMq2N1PIQch2ZA3oGAjD?usp=sharing)
 
 
 ### 9장 미니프로젝트 B2
 
-[MP B2: 합성공 신경망을 이용한 사람얼굴 찾기]
+[MP B2: 합성공 신경망을 이용한 사람얼굴 찾기](https://colab.research.google.com/drive/1cg-uBqnz-FrlQWLVSiwS278KnPXtwnMz?usp=sharing)
 
 ### 9장 미니프로젝트 B3
 
-[MP B3: 전이학습을 이용한 사람얼굴 찾기]
+[MP B3: 전이학습을 이용한 사람얼굴 찾기](https://colab.research.google.com/drive/1DsoOrG5llOOaw50az6QnWbjmwOvJd_L5?usp=sharing)
 
 
 ### 10장 순환신경망에서 어텐션으로
 
-[10장 4절, 5절, 6절 코드]
+[10장 4절, 5절, 6절 코드 - 텐서플로우를 이용한 간단한 RNN 모델 만들기](https://colab.research.google.com/drive/148SsbIhM3-OU27fJXxzisbpnIvO9KSLa?usp=sharing)
 
 #### 10장 랩 코드
 
-[10장 LAB 10.1 코드]
+[10장 LAB 10.1 코드 - 장기 기억이 필요한 시퀀스를 예측해 보자](https://colab.research.google.com/drive/1B_kS4D7aS8D-jTwTW7dLrXX98q61A4Yc?usp=sharing)
 
-[10장 LAB 10.2 코드]
+[10장 LAB 10.2 코드 - 어텐션 모델로 중요한 정보에 집중하자](https://colab.research.google.com/drive/1z3J8SYTFYBqitKVxpXJYa5lcWLyCRyAx?usp=sharing)
 
 
 ### 11장 차원축소, 잠재공간, 오토인코더
 
 #### 11장 랩 코드
 
-[11장 LAB 11.1 코드]
+[11장 LAB 11.1 코드 - 3차원 공간의 데이터에서 주성분을 찾아보자](https://colab.research.google.com/drive/1oqsF5LRQNpexGtXx3guIse_7fxFutGpa?usp=sharing)
 
-[11장 LAB 11.2 코드]
+[11장 LAB 11.2 코드 - 주성분을 추출해 이미지를 압축해 보자](https://colab.research.google.com/drive/1fmyAPs089fVMvmqhwosZCJIG3v1zHaZv?usp=sharing)
 
-[11장 LAB 11.3 코드]
+[11장 LAB 11.3 코드 - 오토인코더로 차원 축소하기](https://colab.research.google.com/drive/1oirYk63Pj8sCkY3_9SegpPXtMaBoJzRe?usp=sharing)
 
-[11장 LAB 11.4 코드]
+[11장 LAB 11.4 코드 - 다층 구조 오토인코더로 차원 축소/복원](https://colab.research.google.com/drive/1l3T9RlNCNcEzfaSddOTQ_cfHHTsueW19?usp=sharing)
 
-[11장 LAB 11.5 코드]
+[11장 LAB 11.5 코드 - 오토인코더를 이용한 이미지 압축과 복원](https://colab.research.google.com/drive/1fNHmnrKozGLT9QkOqycBR95VkOe0FCvq?usp=sharing)
 
-[11장 LAB 11.6 코드]
+[11장 LAB 11.6 코드 - 오토인코더를 이용한 데이터 생성](https://colab.research.google.com/drive/1c2CrBnwNnQkhhumPe1C6GVaMMnK_cEf0?usp=sharing)
 
 ### 12장 어텐션만으로 충분한 트랜스포머
 
