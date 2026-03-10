@@ -44,36 +44,36 @@
 
 
 #### 5장 랩 코드
-[5장 LAB 5.1 코드]
+[5장 LAB 5.1 코드](https://colab.research.google.com/drive/1Wa3eYFNNqhXUijUHyu0TWx5U40Ye-esI?usp=sharing)
 
 
 ### 5장 미니프로젝트 A1
 
-[MP A1: k-NN을 이용한 이미지 잡음 제거]
+[MP A1: k-NN을 이용한 이미지 잡음 제거](https://colab.research.google.com/drive/1ap7xGlOCJmxCbTSXFWoSWGVPzFHaDSaI?usp=sharing)
 
 ### 6장 다양한 기계학습 기법들
 
-[6장 1절/2절 코드]
+[6장 1절/2절 코드](https://colab.research.google.com/drive/1Sa2EQPGPgaFtCEJi0WZ5t0Wg3VNz13l5?usp=sharing)
 
-[6장 7절 코드]
+[6장 7절 코드](https://colab.research.google.com/drive/1l_72V9fovY_Nd688AUq83sPYu7rA2aCb?usp=sharing)
 
-[6장 11절 코드]
+[6장 11절 코드](https://colab.research.google.com/drive/14zKJq6moM5QMsT7ke4jvHvLVnoCT_vk_?usp=sharing)
 
-[6장 12절 코드]
+[6장 12절 코드](https://colab.research.google.com/drive/1xLL9Jt-IgHk5lEZOEZbP1DacidVGDoQJ?usp=sharing)
 
 #### 6장 랩 코드
 
-[6장 LAB 6.1 코드]
+[6장 LAB 6.1 코드](https://colab.research.google.com/drive/1cwcpkG7mbeTB7lUof0DWUv5RdhH47ZtL?usp=sharing)
 
-[6장 LAB 6.2 코드]
+[6장 LAB 6.2 코드](https://colab.research.google.com/drive/1ZpmwCQT_Ogs3z4AR5Oa_WFB-ecIzv_kw?usp=sharing)
 
-[6장 LAB 6.3 코드]
+[6장 LAB 6.3 코드](https://colab.research.google.com/drive/1nYuD5cTAtJfHO2WKa3nE-sL3SyPACU4k?usp=sharing)
 
-[6장 LAB 6.4 코드]
+[6장 LAB 6.4 코드](https://colab.research.google.com/drive/1dR9Ro3QP-tdecQutdhlKNw-Y5vHKKvvs?usp=sharing)
 
 ### 6장 미니프로젝트 B1
 
-[MP B1: SVM을 이용한 사람 얼굴 찾기]
+[MP B1: SVM을 이용한 사람 얼굴 찾기](https://colab.research.google.com/drive/1wrOTR7T-PRQLGqvupNyjgfEn1SybCGaH?usp=sharing)
 
 
 ### 7장 인경신경망의 기초
