@@ -53,23 +53,23 @@
 
 ### 6장 다양한 기계학습 기법들
 
-[6장 1절/2절 코드](https://colab.research.google.com/drive/1Sa2EQPGPgaFtCEJi0WZ5t0Wg3VNz13l5?usp=sharing)
+[6장 1절/2절 코드 - 다항 회귀의 개념과 비선형 회귀 - 과적합 문제](https://colab.research.google.com/drive/1Sa2EQPGPgaFtCEJi0WZ5t0Wg3VNz13l5?usp=sharing)
 
-[6장 7절 코드](https://colab.research.google.com/drive/1l_72V9fovY_Nd688AUq83sPYu7rA2aCb?usp=sharing)
+[6장 7절 코드 - 사이킷런의 결정 트리로 붓꽃 분류하기](https://colab.research.google.com/drive/1l_72V9fovY_Nd688AUq83sPYu7rA2aCb?usp=sharing)
 
-[6장 11절 코드](https://colab.research.google.com/drive/14zKJq6moM5QMsT7ke4jvHvLVnoCT_vk_?usp=sharing)
+[6장 11절 코드 - 사이킷런을 이용한 서포트 벡터 머신 사용하기](https://colab.research.google.com/drive/14zKJq6moM5QMsT7ke4jvHvLVnoCT_vk_?usp=sharing)
 
-[6장 12절 코드](https://colab.research.google.com/drive/1xLL9Jt-IgHk5lEZOEZbP1DacidVGDoQJ?usp=sharing)
+[6장 12절 코드 - 다항 특징 변환을 통한 비선형 서포트 벡터 머신의 구현](https://colab.research.google.com/drive/1xLL9Jt-IgHk5lEZOEZbP1DacidVGDoQJ?usp=sharing)
 
 #### 6장 랩 코드
 
-[6장 LAB 6.1 코드](https://colab.research.google.com/drive/1cwcpkG7mbeTB7lUof0DWUv5RdhH47ZtL?usp=sharing)
+[6장 LAB 6.1 코드 - 다항 회귀의 회귀 함수를 그려 보자](https://colab.research.google.com/drive/1cwcpkG7mbeTB7lUof0DWUv5RdhH47ZtL?usp=sharing)
 
-[6장 LAB 6.2 코드](https://colab.research.google.com/drive/1ZpmwCQT_Ogs3z4AR5Oa_WFB-ecIzv_kw?usp=sharing)
+[6장 LAB 6.2 코드- 꽃받침의 너비와 길이로 결정트리를 만들자](https://colab.research.google.com/drive/1ZpmwCQT_Ogs3z4AR5Oa_WFB-ecIzv_kw?usp=sharing)
 
-[6장 LAB 6.3 코드](https://colab.research.google.com/drive/1nYuD5cTAtJfHO2WKa3nE-sL3SyPACU4k?usp=sharing)
+[6장 LAB 6.3 코드 - 비선형 SVM을 이용한 데이터 분류](https://colab.research.google.com/drive/1nYuD5cTAtJfHO2WKa3nE-sL3SyPACU4k?usp=sharing)
 
-[6장 LAB 6.4 코드](https://colab.research.google.com/drive/1dR9Ro3QP-tdecQutdhlKNw-Y5vHKKvvs?usp=sharing)
+[6장 LAB 6.4 코드 - 커널 트릭을 이용한 비선형 SVM](https://colab.research.google.com/drive/1dR9Ro3QP-tdecQutdhlKNw-Y5vHKKvvs?usp=sharing)
 
 ### 6장 미니프로젝트 B1
 
