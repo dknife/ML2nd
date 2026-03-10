@@ -94,17 +94,17 @@
 
 ### 8장 고급 인경 신경망 구현
 
-[8장 5절, 6절, 7절 코드]
+[8장 5절, 6절, 7절 코드 - 텐서플로우의 MNIST 예제로 시작하는 신경망의 Hello World!](https://colab.research.google.com/drive/1I7k58NFLS-LAkdWU4TtjqceztB9XrJ7H?usp=sharing)
 
-[8장 8절, 9절, 10절 코드]
+[8장 8절, 9절, 10절 코드 - 부드러운 최대값: 소프트맥스 함수](https://colab.research.google.com/drive/1cu0OvQu-Y553-6kia2GocFqnv0mR-IqU?usp=sharing)
 
-[8장 13절 코드]
+[8장 13절 코드 - 더 깊은 층으로 정확도를 높여보고 교차검증도 하자](https://colab.research.google.com/drive/1apVBQhIfK3XjQkNfZ3_dt45uWIpFowq4?usp=sharing)
 
-[8장 14절 코드]
+[8장 14절 코드 - 학습데이터에만 최적화된 신경망 개선하기 : 드롭아웃](https://colab.research.google.com/drive/1upczj3OE3TPa1GAjxzdFqlHU2vvqv8rn?usp=sharing)
 
 #### 8장 랩 코드
 
-[8장 LAB 8.1 코드]
+[8장 LAB 8.1 코드 - Fashion-MNIST 데이터 분류하기](https://colab.research.google.com/drive/1AlNET5ADPjr9HX5-j3aM2p3IqgMgF_6Y?usp=sharing)
 
 ### 9장 합성곱 신경망
 
