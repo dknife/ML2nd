@@ -1,5 +1,13 @@
 # 으뜸 머신러닝 개정판
 
+
+## 정오표
+
+원고를 작성하는 과정, 편집되는 과정, 인쇄되는 과정에서 오류가 발생한 부분이 있습니다.
+조속히 수정하도록 하겠습니다. 개정판 1쇄에 남은 오류는 다음과 같습니다.
+
+[으뜸 머신러닝 개정판 1쇄 정오표](https://docs.google.com/document/d/16B76s3nVXn8vC1RRSyxEq7pQ-oD2mTbjgHehJ-EqXJs/edit?usp=sharing)
+
 ## 소스코드 (저장소)
 
 [소스코드  페이지](https://github.com/dknife/ML2nd/blob/main/Code/)
